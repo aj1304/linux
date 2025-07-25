@@ -6,6 +6,13 @@ cat (file name) linux-exam.txt
 
 
 
+## to create shell-scripting file and run using bash command
+touch fileName.sh
+
+bash fileName.sh
+
+
+
 
 
 
